@@ -1,0 +1,5 @@
+package com.trabalho.crm.model;
+
+public class cliente {
+
+}

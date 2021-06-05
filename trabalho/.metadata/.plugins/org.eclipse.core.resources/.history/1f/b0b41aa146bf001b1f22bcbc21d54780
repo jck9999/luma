@@ -1,0 +1,5 @@
+package com.trabalho.crm.repository;
+
+public interface ClienteRepository {
+
+}

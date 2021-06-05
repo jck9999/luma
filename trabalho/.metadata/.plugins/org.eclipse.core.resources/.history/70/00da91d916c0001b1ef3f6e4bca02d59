@@ -1,0 +1,11 @@
+package com.trabalho.crm.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.trabalho.crm.model.cliente;
+
+@Repository
+public interface ClienteRepository extends JpaRepository<cliente, Long> {
+
+}
